@@ -8,4 +8,3 @@ This is a repository for my data analysis conducted using Python, Jupyter Notebo
 **Classification**
 - [credit_analysis.ipynb](https://github.com/kdors/Data-Analysis-Python/blob/main/credit_analysis.ipynb)
 
-**Regression**
